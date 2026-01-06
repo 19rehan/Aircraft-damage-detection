@@ -13,6 +13,7 @@ Aircraft damage detection is essential for maintaining the safety and longevity 
 
 The goal of this project is to develop an automated model that accurately classifies aircraft damage from images. By the end of the project, you will have trained and evaluated a model that utilizes feature extraction from VGG16 for damage classification. This model will be applicable in real-world damage detection within the aviation industry. Furthermore, the project will showcase how we can use a Transformer-based model to caption and summarize images, providing a detailed description of the damage.
 
-Final Output
+**Final Output**
+
 A trained model capable of classifying aircraft images into "dent" and "crack" categories, enabling automated aircraft damage detection.
 A Transformer-based model that generates captions and summaries of images
