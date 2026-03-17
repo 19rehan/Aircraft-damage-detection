@@ -6,6 +6,7 @@ In this project, you will classify aircraft damage using a pre-trained VGG16 mod
 
 
 
+
 **Project Overview**
 
 
