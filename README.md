@@ -20,4 +20,3 @@ A Transformer-based model that generates captions and summaries of images.
 
 
 
-
